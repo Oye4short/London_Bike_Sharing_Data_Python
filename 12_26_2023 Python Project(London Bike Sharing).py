@@ -4,7 +4,7 @@
 # In[1]:
 
 
-# Uncomment the pip install code below if you haven't installed these libraries yet
+# Uncomment- the pip install code below if you haven't installed these libraries yet
 get_ipython().system('pip install pandas')
 get_ipython().system('pip install zipfile')
 get_ipython().system('pip install kaggle')
